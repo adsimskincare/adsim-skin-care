@@ -1,0 +1,6 @@
+{
+  "name": "ADSIM CARE - Premium Skincare & Targeted Solutions",
+  "description": "Premium Skincare, Crafted with Care. Dermatologically approved everyday facial skincare for acne-prone skin, tan removal, oil control, and deep hydration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
